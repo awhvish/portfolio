@@ -14,13 +14,12 @@ const HomePage = () => {
           have a love for game development and web applications.
         </p>
         <p className="text-lg py-5">
-          Coding is not just a profession for me—it's a passion. I thrive on creating
-          projects that challenge me to learn more, and I am always excited to explore
-          new technologies and methodologies. Whether it's debugging, optimizing code, 
+          I thrive on creating projects that challenge me to learn more, and I am always excited to explore
+          new technologies and methodologies. Whether its debugging, optimizing code, 
           or designing new features, I love the process of building something from scratch.
         </p>
         <p className="text-lg">
-          My journey began at a young age, and over the years, I've honed my skills 
+          My journey began at a young age, and over the years, I havee honed my skills 
           in a variety of programming languages and frameworks, making me a versatile 
           developer who can adapt to any project or problem.
         </p>
