@@ -1,11 +1,5 @@
 import { JSX, SVGProps } from "react";
 
-
-/**
- * v0 by Vercel.
- * @see https://v0.dev/t/JoLSererSW6
- * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
- */
 export default function Languages() {
     return (
       <section className="w-full py-12 md:py-24 lg:py-32 flex justify-center">
@@ -13,7 +7,7 @@ export default function Languages() {
           <div className="space-y-4">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">My Programming Languages</h2>
             <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              I'm proficient in a wide range of web design tools and several other Languages    .
+              I'm proficient in a wide range of web design tools and several other Languages.
             </p>
           </div>
           <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">

@@ -2,7 +2,7 @@
 import { usePathname } from 'next/navigation';
 import React from 'react';
 import Link from 'next/link';
-import { Sheet, SheetHeader, SheetContent, SheetTrigger } from './ui/sheet';
+import { Sheet, SheetContent, SheetTrigger } from './ui/sheet';
 import { CiMenuBurger } from "react-icons/ci";
 
 const links = [

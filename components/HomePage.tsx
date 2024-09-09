@@ -20,7 +20,7 @@ const HomePage = () => {
           or designing new features, I love the process of building something from scratch.
         </p>
         <p className="text-lg">
-          My journey began at a young age, and over the years, I’ve honed my skills 
+          My journey began at a young age, and over the years, I've honed my skills 
           in a variety of programming languages and frameworks, making me a versatile 
           developer who can adapt to any project or problem.
         </p>
