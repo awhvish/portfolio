@@ -5,7 +5,7 @@ export default function Languages() {
       <section className="w-full py-12 md:py-24 lg:py-32 flex justify-center">
         <div className="container grid max-w-5xl items-center justify-center gap-8 px-4 text-center md:gap-12 md:px-6">
           <div className="space-y-4">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">My Programming Languages</h2>
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-2xl md:text-3xl">My Programming Languages</h2>
             <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
               I am proficient in a wide range of web design tools and several other Languages.
             </p>

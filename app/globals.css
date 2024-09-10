@@ -42,3 +42,11 @@
     @apply font-heading;
   }
 }
+/* global.css */
+.perspective {
+  perspective: 1000px; /* Defines the 3D perspective */
+}
+
+.rotate-3d {
+  transform: rotateY(10deg) rotateX(10deg); /* Applies the 3D rotation */
+}

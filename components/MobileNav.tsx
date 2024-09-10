@@ -6,16 +6,18 @@ import { Sheet, SheetContent, SheetTrigger } from './ui/sheet';
 import { CiMenuBurger } from "react-icons/ci";
 
 const links = [
-    { name: "Home", path: "/" },
-    { name: "Blogs", path: "/blog" },
-    { name: "Contact Me", path: "/contact" },
-];
+    { name: "/", path: "/" },
+    { name: "Skills", path: "#skills" },
+    { name: "Projects", path: "#projects" },
+    { name: "Contact Me", path: "mailto:high.avis.lowha@gmail.com" },
+  ];
+
 const MobileNav = () => {
     const pathname = usePathname();
     return (
-        <div className='flex pr-10'>
+        <div className='flex '>
             <Sheet>
-                <SheetTrigger > <CiMenuBurger size="25" className='text-accent'/> </SheetTrigger>
+                <SheetTrigger > <CiMenuBurger size="25" color='black' className='text-accent'/> </SheetTrigger>
                 <SheetContent>
                     {links.map((link, index) => {
                         return (
